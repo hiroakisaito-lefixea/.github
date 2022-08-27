@@ -1,0 +1,2 @@
+# NEW Pull Request
+PULL_REQUEST_TEMPLATE.mdです。
